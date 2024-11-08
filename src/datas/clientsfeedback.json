@@ -1,0 +1,38 @@
+[
+    {
+        "id" : 1,
+        "name" : "John Doe",
+        "comment" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.",
+        "photoPath" : "./src/assets/photoClient/Johnathan Doe.jpg"
+    },
+    {
+        "id" : 2,
+        "name" : "Johnathan Doe",
+        "comment" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.",
+        "photoPath" : ""
+    },
+    {
+        "id" : 3,
+        "name" : "Ibrahim",
+        "comment" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.",
+        "photoPath" : ""
+    },
+    {
+        "id" : 4,
+        "name" : "Reqsane",
+        "comment" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.",
+        "photoPath" : ""
+    },
+    {
+        "id" : 5,
+        "name" : "Ali",
+        "comment" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.",
+        "photoPath" : ""
+    },
+    {
+        "id" : 6,
+        "name" : "Sefeq",
+        "comment" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.",
+        "photoPath" : ""
+    }
+]

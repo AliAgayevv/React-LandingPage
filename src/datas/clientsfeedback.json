@@ -2,37 +2,37 @@
     {
         "id" : 1,
         "name" : "John Doe",
-        "comment" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.",
-        "photoPath" : "./src/assets/photoClient/Johnathan Doe.jpg"
+        "comment" : "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+        "photoPath" : "./src/assets/photoClient/John Doe.jpg"
     },
     {
         "id" : 2,
         "name" : "Johnathan Doe",
-        "comment" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.",
-        "photoPath" : ""
+        "comment" : "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+        "photoPath" : "./src/assets/photoClient/Johnathan Doe.jpg"
     },
     {
         "id" : 3,
         "name" : "Ibrahim",
-        "comment" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.",
-        "photoPath" : ""
+        "comment" : "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+        "photoPath" : "./src/assets/photoClient/Ibrahim.jpg"
     },
     {
         "id" : 4,
         "name" : "Reqsane",
-        "comment" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.",
-        "photoPath" : ""
+        "comment" : "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+        "photoPath" : "./src/assets/photoClient/Reqsane.jpg"
     },
     {
         "id" : 5,
         "name" : "Ali",
-        "comment" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.",
-        "photoPath" : ""
+        "comment" : "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+        "photoPath" : "./src/assets/photoClient/Ali.jpg"
     },
     {
         "id" : 6,
         "name" : "Sefeq",
-        "comment" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.",
-        "photoPath" : ""
+        "comment" : "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+        "photoPath" : "./src/assets/photoClient/Sefeq.jpg"
     }
 ]

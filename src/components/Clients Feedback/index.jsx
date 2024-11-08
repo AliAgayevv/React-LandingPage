@@ -1,19 +1,27 @@
+import { useEffect, useState } from "react";
 import ClientsFeedbackCard from "../Clients Feedback Card";
+import datas from "../../datas/clientsfeedback.json"
 
-const fetchData = () =>
-{
-    console.log("hello")
-}
 
 function ClientsFeedback() {
+
+
     return (
-        <div className="flex flex-col mt-10 h-screen gap-16 w-[800px] m-auto">
-            <h1 className="text-center">WHAT OUR CLIENTS SAY</h1>
+        <div className=" bg-customNoiseWhite w-screen">
+            <div className="w-[800px] bg-customNoiseWhite flex flex-col mt-10 h-[620px] pt-20 gap-16 m-auto">
+                <h1 className="text-center text-2xl font-bold">WHAT OUR CLIENTS SAY</h1>
 
-            <div className="grid grid-cols-3">
-            <ClientsFeedbackCard name={"John"} comment={"lorem ipsum ah"}  photoPath={"./src/assets/photoClient/Johnathan Doe.jpg"}/>
+                <div className="grid grid-cols-3">
+                    {
+                        datas.map(data => (
+                            <ClientsFeedbackCard name={data.name} comment={data.comment} photoPath={data.photoPath} />
+                        ))
+                    }
 
+
+                </div>
             </div>
+
         </div>
     )
 

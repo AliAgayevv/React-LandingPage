@@ -5,6 +5,7 @@ import AboutUs from "./components/About Us/index"
 import OurServices from "./components/Our Services/index";
 import Gallery from "./components/Gallery/index"
 import ClientsFeedback from "./components/Clients Feedback";
+import MeetTeam from "./components/Meet Team";
 
 function App() {
 
@@ -18,6 +19,7 @@ function App() {
       <OurServices />
       <Gallery />
       <ClientsFeedback />
+      <MeetTeam />
     </>
   )
 }

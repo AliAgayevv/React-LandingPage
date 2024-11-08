@@ -1,6 +1,6 @@
 function AboutUs() {
     return (
-        <div className="p-10 flex-row flex h-[375px] w-[800px] m-auto gap-12">
+        <div className="p-10 flex-row flex h-[375px] w-[800px] m-auto gap-12" id="about">
             <div className="w-[350px] h-[250px]">
                 <img src="./src/assets/imgs/about.jpg" className="w-screen"/>
             </div>

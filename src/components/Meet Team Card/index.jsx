@@ -10,7 +10,7 @@ function MeetTeamCard({ name, position, photoPath }) {
             <h1>
                 {name}
             </h1>
-            <h2 className="text-center font-thin">
+            <h2 className="text-center text-[10px]">
                 {position}
             </h2>
         </div>

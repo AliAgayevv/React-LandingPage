@@ -6,12 +6,13 @@ import OurServices from "./components/Our Services/index";
 import Gallery from "./components/Gallery/index"
 import ClientsFeedback from "./components/Clients Feedback";
 import MeetTeam from "./components/Meet Team";
+import GetInTouch from "./components/Get In Touch";
 
 function App() {
 
 
   return (
-    <>
+    <div className="font-serif">
       <Navbar />
       <Landing />
       <Features />
@@ -20,7 +21,8 @@ function App() {
       <Gallery />
       <ClientsFeedback />
       <MeetTeam />
-    </>
+      <GetInTouch />
+    </div>
   )
 }
 

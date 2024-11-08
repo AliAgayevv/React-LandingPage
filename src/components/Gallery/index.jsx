@@ -2,7 +2,7 @@ import GalleryElement from "../Gallery Element";
 
 function Gallery() {
     return (
-        <div className="flex flex-col w-[80vw] h-[600px] m-auto p-12 gap-4">
+        <div className="flex flex-col w-[80vw] h-[600px] m-auto p-12 gap-4" id="gallery">
             <h1 className="text-center text-2xl text-black">
                 GALLERY
             </h1>

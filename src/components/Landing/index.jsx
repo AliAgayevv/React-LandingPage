@@ -4,7 +4,7 @@
 
 function Landing() {
     return (
-        <div className="h-[507px] bg-fixed flex justify-center items-center">
+        <div className="h-[507px] bg-fixed flex justify-center items-center" id="home">
             <img src="./src/assets/imgs/intro-bg.jpg" className=" absolute -z-10" />
             <div className="absolute bg-gray-900 opacity-20 h-[850px] w-screen -z-[9]">
 
@@ -16,16 +16,20 @@ function Landing() {
                 </h1>
 
                 <p className="text-xs w-[600px] text-center">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum.
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum.
                 </p>
 
-                <button type="button" class="w-36 h-12
-                 text-white bg-blue-700 font-medium rounded-3xl text-sm px-5 py-2.5 me-2 mb-2 
-                focus:outline-none focus:ring-4 focus:ring-blue-300
-                hover:bg-blue-800
-                ">
+                <button
+                    type="button"
+                    class="w-28 h-8 flex justify-center items-center uppercase
+           text-white bg-gradient-to-br from-blue-500 to-indigo-500 
+           hover:bg-gradient-to-br hover:from-blue-600 hover:to-indigo-400
+           font-medium rounded-3xl text-[10px] p-3.5  me-2 mb-2 
+           focus:outline-none focus:ring-4 focus:ring-blue-300 
+           transition-all duration-1000 ease-in-out
+    ">
                     Learn More
-                    </button>
+                </button>
 
             </div>
 

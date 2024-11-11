@@ -21,7 +21,7 @@ function Navbar() {
 
     return (
         <nav className="flex items-center justify-evenly p-2 h-16 bg-white text-black uppercase gap-10 fixed w-screen z-[200] shadow-md">
-            <h1 className="ml-10 font-bold text-base">
+            <h1 className="`w-60 text-nowrap font-bold text-[12px]">
                 <a href="#home">
                     React Landing Page
                 </a>

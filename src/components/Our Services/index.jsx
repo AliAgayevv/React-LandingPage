@@ -1,5 +1,4 @@
-import OurServiceCard from "../Our Service Card ";
-
+import OurServiceCard from "../OurServiceCard";
 
 
 

@@ -12,7 +12,7 @@ function Landing() {
                     {t("landingPage")}
                 </h1>
 
-                <p className="text-xs w-[600px] text-center text-white">
+            <p className="text-base w-[600px] text-center text-white">
                     {t("landingPageDesc")}
                 </p>
 

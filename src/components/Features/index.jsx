@@ -1,16 +1,19 @@
+import { useTranslation } from "react-i18next";
 import FeaturesCard from "../Features Card";
 
 
 function Features() {
+    const {t} = useTranslation();
+
     return (
         <div className="mt-42 bg-customNoiseWhite w-screen h-[300px] mx-auto" id="features">
             <div className="w-[80%] m-auto" >
                 <h2 className="text-center font-bold mb-10 p-4 text-2xl tracking-wide">
-                    FEATURES
+                    {t("featuresHeading")}
                 </h2>
 
                 <div className="flex gap-3">
-                    <FeaturesCard logo={"message"} />
+                    <FeaturesCard logo={"message"}/>
                     <FeaturesCard logo={"megaphone"} />
                     <FeaturesCard logo={"people"} />
                     <FeaturesCard logo={"magicwand"} />

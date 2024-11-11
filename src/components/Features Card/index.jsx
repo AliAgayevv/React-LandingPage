@@ -2,9 +2,12 @@ import { LuMessagesSquare } from "react-icons/lu";
 import { IoMegaphoneSharp } from "react-icons/io5";
 import { BsPeopleFill } from "react-icons/bs";
 import { FaWandMagicSparkles } from "react-icons/fa6";
+import { useTranslation } from "react-i18next";
 
 
 function FeaturesCard({ logo }) {
+    const {t} = useTranslation()
+
     return (
         <div className="flex flex-col items-center gap-2">
             <div className="w-16 h-16 rounded-[50%] bg-gradient-to-r from-blue-500 to-indigo-500 flex items-center justify-center">

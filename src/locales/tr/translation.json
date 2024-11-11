@@ -1,0 +1,18 @@
+{
+    "navbarElements": ["ÖZELLİKLER", "HAKKINDA", "HİZMETLER", "GALERİ", "REFERANSLAR", "EKİP", "İLETİŞİM"],
+    "landingPage": "BİZ AÇILIŞ SAYFASIYIZ",
+    "landingPageDesc" : "Geleceğe adım atın! Biz, işinizi dijitalleştirerek başarıya ulaşmanız için yanınızdayız. Yenilikçi çözümler ve ileri teknolojilerle, iş süreçlerinizi kolaylaştırıyor, size zaman kazandırıyoruz. Hedefinizde güvenle ilerlemek için en iyi dijital destekçiniziz!",
+    "landingPageBtn" : "BİLGİ EDİNİN",
+    "featuresHeading" : "ÖZELLİKLER",
+    "aboutUs" : "HAKKIMIZDA",
+    "aboutUsDesc" : "Misyonumuz, sizin benzersiz ihtiyaçlarınıza göre uyarlanmış yenilikçi ve etkili çözümler yaratmaktır. Kendini işine adamış profesyonellerden oluşan ekibimizle, işletmelere en son teknolojiyi ve verimli stratejileri kullanarak güç kazandırmayı hedefliyoruz. Yaklaşımımız, iş birliği, şeffaflık ve mükemmelliğe bağlılık üzerine kuruludur. İster küçük bir girişim olun, ister büyük bir kuruluş, hedeflerinize ulaşmanızı ve beklentilerinizin ötesine geçmenizi sağlamak için yanınızda çalışıyoruz.",
+    "whyChooseUs" : "Neden Bizi Seçmelisiniz?",
+    "aboutUs1-1": "Uzman Ekip",
+    "aboutUs1-2": "Müşteri Odaklı Yaklaşım",
+    "aboutUs1-3": "Güvenilir Destek",
+    "aboutUs1-4": "Kanıtlanmış Sonuçlar",
+    "aboutUs2-1": "Gelişmiş Teknoloji",
+    "aboutUs2-2": "Özelleştirilmiş Çözümler",
+    "aboutUs2-3": "Kaliteye Bağlılık",
+    "aboutUs2-4": "Şeffaflık ve Güven"
+ }

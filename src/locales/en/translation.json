@@ -1,0 +1,18 @@
+{
+    "navbarElements": ["FEATURES", "ABOUT", "SERVICES", "GALLERY", "TESTIMONIALS", "TEAM", "CONTACT"],
+    "landingPage" : "WE ARE A LANDING PAGE",
+    "landingPageDesc" : "Step into the future! We’re here to help you reach success by digitalizing your business. With innovative solutions and cutting-edge technology, we simplify your processes and save you time. Your trusted digital partner on the path to your goals!",
+    "landingPageBtn" : "LEARN MORE",
+    "featuresHeading" : "FEATURES",
+    "aboutUs" : "ABOUT",
+    "aboutUsDesc" : "Our mission is to create innovative and effective solutions tailored to your unique needs. With a team of dedicated professionals, we aim to empower businesses by leveraging cutting-edge technology and streamlined strategies. Our approach is rooted in collaboration, transparency, and a commitment to excellence. Whether you’re a small startup or a large enterprise, we work alongside you to ensure that your goals are met and your expectations are exceeded. ",
+    "whyChooseUs" : "Why Choose Us?",
+    "aboutUs1-1": "Expert Team",
+    "aboutUs1-2": "Client-Centric Approach",
+    "aboutUs1-3": "Reliable Support",
+    "aboutUs1-4": "Proven Results",
+    "aboutUs2-1": "Advanced Technology",
+    "aboutUs2-2": "Customized Solutions",
+    "aboutUs2-3": "Commitment to Quality",
+    "aboutUs2-4": "Transparency & Trust"
+  }

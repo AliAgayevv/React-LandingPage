@@ -1,4 +1,5 @@
 import { useTranslation } from 'react-i18next';
+import { Link } from "react-scroll";
 
 const languages = [
     { code: "en", lang: "English" },
@@ -22,22 +23,34 @@ function Navbar() {
     return (
         <nav className="flex items-center justify-evenly p-2 h-16 bg-white text-black uppercase gap-10 fixed w-screen z-[200] shadow-md">
             <h1 className="`w-60 ml-10 text-nowrap font-bold text-lg">
-                <a href="#home">
+                <Link
+                    to="home"
+                    smooth={true}
+                    duration={500}
+                    className="cursor-pointer"
+                >
                     React Landing Page
-                </a>
+                </Link>
             </h1>
 
             <ul className="flex gap-8 text-[10px] m-auto">
                 {navbarElements.map((item, index) => (
                     <li key={index} className="relative group">
-                        <a href={`#${navbarIds[index]}`} className="cursor-pointer text-base">
+                        <Link
+                            to={navbarIds[index]}
+                            smooth={true}
+                            duration={500}
+                            spy={true}
+                            offset={-70} // Navbar height adjustment
+                            className="cursor-pointer text-base"
+                        >
                             {item}
-                        </a>
+                        </Link>
                         <span className="absolute left-0 bottom-[-2px] w-0 h-[2px] bg-blue-500 transition-all duration-300 group-hover:w-full"></span>
                     </li>
                 ))}
             </ul>
-            
+
             <div className="flex gap-2 justify-center items-center">
                 {languages.map((lng) => (
                     <button
